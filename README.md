@@ -1,1 +1,1 @@
-# Scientific_Calculator
+# QR Code generator app for text fields.
